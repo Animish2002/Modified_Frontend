@@ -33,7 +33,7 @@ export default function VendorDashboard() {
       link: "#",
       bgColor: "bg-cyan-600",
       subItems: [
-        { text: "Purchase Order Details", link: "create-vendor" },
+        // { text: "Purchase Order Details", link: "purchase-order-details" },
         { text: "Purchase Order List", link: "purchase-order-list" },
       ],
     },

@@ -39,6 +39,7 @@ import RFP from "./pages/vendor/RFP";
 import VendorProfile from "./pages/vendor/VendorProfile";
 import UploadDocument from "./pages/vendor/UploadDocument";
 import PoList from "./pages/Purchase Orders/PoList";
+import PurchaseOrderTable from "./pages/Purchase Orders/PoDetailsV";
 
 //ProjectHead
 import ProjectHeadDash from "./pages/projecthead/ProjectHeadDash";
